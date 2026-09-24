@@ -1,0 +1,7 @@
+fastapi==0.141.1
+uvicorn==0.52.1
+sqlalchemy==2.0.51
+psycopg2-binary==2.9.12
+openai==2.53.0
+python-dotenv==1.2.2
+sqlglot==30.16.0
